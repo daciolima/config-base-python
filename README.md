@@ -1,5 +1,10 @@
 ## Comandos no projeto
 
+#### Instalando o pre-commit -> Criar arquivo .pre-commit-config.yaml. Ele irá corrigir conforme hooks antes de commitar
+```shell
+# pip install pre-commit
+```
+
 
 #### Instalando o pylint
 ```shell
@@ -15,5 +20,10 @@
 #### Instalando o flake8
 ```shell
 # pip install flake8
+```
+
+#### Log de commits
+```shell
+# git log --oneline
 ```
 
