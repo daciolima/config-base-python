@@ -1,4 +1,5 @@
-## Comandos no projeto
+## Alguns comandos usado na configuração da base
+
 
 #### Instalando o pre-commit -> Criar arquivo .pre-commit-config.yaml. Ele irá corrigir conforme hooks antes de commitar
 ```shell
