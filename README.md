@@ -4,6 +4,7 @@
 #### Instalando o pre-commit -> Criar arquivo .pre-commit-config.yaml. Ele irá corrigir conforme hooks antes de commitar
 ```shell
 # pip install pre-commit
+# pre-commit install # Gravar as configurações na pasta .git para que de fato funcione os hooks no momento do commit
 ```
 
 
