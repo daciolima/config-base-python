@@ -1,4 +1,4 @@
-## Alguns comandos usado na configuração da base
+## Alguns comandos usado na configuração da base para um projeto python
 
 
 #### Instalando o pre-commit -> Criar arquivo .pre-commit-config.yaml. Ele irá corrigir conforme hooks antes de commitar
